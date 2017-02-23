@@ -1,0 +1,874 @@
+lyhenne;tieteellinen;suomalainen;ruotsalainen
+CYGSP;Cygnus sp;joutsenlaji;Cygnus (släktet)
+CYGOLO;Cygnus olor;kyhmyjoutsen;knölsvan
+CYGATR;Cygnus atratus;mustajoutsen;svart svan
+CYGCOL;Cygnus columbianus;pikkujoutsen;mindre sångsvan
+CYGCOLBEW;Cygnus columbianus bewickii;pikkujoutsen (alalaji bewickii);mindre sångsvan (rasen bewickii)
+CYGCOLCOL;Cygnus columbianus columbianus;pikkujoutsen (alalaji columbianus);mindre sångsvan (rasen columbianus)
+CYGCOL/CYGCYG;Cygnus columbianus / Cygnus cygnus;pikkujoutsen / laulujoutsen;mindre sångsvan / sångsvan
+CYGCYG;Cygnus cygnus;laulujoutsen;sångsvan
+ANS/BRA;Anser / Branta;hanhi;ob. gås
+ANSSP;Anser sp;harmaahanhilaji;Anser (släktet)
+ANSFAB;Anser fabalis;metsähanhi;sädgås
+ANSFABFAB;Anser fabalis fabalis;taigametsähanhi;sädgås (rasen fabalis)
+ANSFABROS;Anser fabalis rossicus;tundrametsähanhi;sädgås (rasen rossicus)
+ANSFABXANSALB;Anser fabalis x Anser albifrons;metsähanhi x tundrahanhi;sädgås x bläsgås
+ANSBRA;Anser brachyrhynchus;lyhytnokkahanhi;spetsbergsgås
+ANSALB;Anser albifrons;tundrahanhi;bläsgås
+ANSALBALB;Anser albifrons albifrons;tundrahanhi (alalaji albifrons);bläsgås (rasen albifrons)
+ANSALBFLA;Anser albifrons flavirostris;tundrahanhi (alalaji flavirostris);bläsgås (rasen flavirostris)
+ANSALB/ANSERY;Anser albifrons / Anser erythropus;tundrahanhi / kiljuhanhi;bläsgås / fjällgås
+ANSALBXANSERY;Anser albifrons X Anser erythropus;tundrahanhi X kiljuhanhi;bläsgås X fjällgås
+ANSALBXANSANS;Anser albifrons X Anser anser;tundrahanhi X merihanhi;bläsgås X grågås
+ANSERY;Anser erythropus;kiljuhanhi;fjällgås
+ANSERYXBRALEU;Anser erythropus x Branta leucopsis;kiljuhanhi x valkoposkihanhi;fjällgås x vitkindad gås
+ANSANS;Anser anser;merihanhi;grågås
+ANSANSXBRACAN;Anser anser X Branta canadensis;merihanhi X kanadanhanhi;grågås X kanadagås
+ANSANSXBRALEU;Anser anser X Branta leucopsis;merihanhi X valkoposkihanhi;grågås X vitkindad gås
+ANSIND;Anser indicus;tiibetinhanhi;stripgås
+ANSINDXBRALEU;Anser indicus X Branta leucopsis;tiibetinhanhi X valkoposkihanhi;stripgås X vitkindad gås
+ANSCAE;Anser caerulescens;lumihanhi;snögås
+ANSCAEATL;Anser caerulescens atlanticus;Lumihanhi (alalaji atlanticus);snögås (rasen atlanticus)
+ANSCAEXBRALEU;Anser caerulescens x Branta leucopsis;lumihanhi x valkoposkihanhi;snögås x vitkindad gås
+ANSCAE/ANSROS;Anser caerulescens / Anser rossii;lumihanhi / eskimohanhi;snögås / dvärgsnögås
+ANSROS;Anser rossii;eskimohanhi;dvärgsnögås
+ANSCYG;Anser cygnoides;joutsenhanhi;svangås
+BRASP;Branta sp;kirjohanhilaji;Branta (släktet)
+BRACAN;Branta canadensis;kanadanhanhi;kanadagås
+BRAHUT;Branta hutchincii;pikkukanadanhanhi;dvärgkanadagås
+BRAHUTMIN;Branta hutchincii minima;pikkukanadanhanhi (alalaji minima);dvärgkanadagås (rasen minima)
+BRACANXBRALEU;Branta canadensis X Branta leucopsis;kanadanhanhi X valkoposkihanhi;kanadagås X vitkindad gås
+BRACAN/BRAHUTXBRALEU;Branta canadensis / Branta hutchincii x Branta leucopsis;kanadanhanhi / pikkukanadanhanhi x valkoposkihanhi;kanadagås / dvärgkanadagås X vitkindad gås
+BRALEU;Branta leucopsis;valkoposkihanhi;vitkindad gås
+BRALEUXBRARUF;Branta leucopsis x Branta ruficollis;valkoposkihanhi x punakaulahanhi;vitkindad gås x rödhalsad gås
+BRABER;Branta bernicla;sepelhanhi;prutgås
+BRABERHRO;Branta bernicla hrota;sepelhanhi (alalaji hrota);prutgås (rasen hrota)
+BRABERBER;Branta bernicla bernicla;sepelhanhi (alalaji bernicla);prutgås (rasen bernicla)
+BRABERNIG;Branta bernicla nigricans;sepelhanhi (alalaji nigricans);prutgås (rasen nigricans)
+BRARUF;Branta ruficollis;punakaulahanhi;rödhalsad gås
+ALOAEG;Alopochen aegyptiaca;afrikanhanhi;nilgås
+XAB;hybrida Anserini;hanhiristeymä;gåshybrid
+TADFER;Tadorna ferruginea;ruostesorsa;rostand
+TADTAD;Tadorna tadorna;ristisorsa;gravand
+AIXSP;Aix sp;mandariinisorsalaji;Aix (släktet)
+AIXSPO;Aix sponsa;morsiosorsa;brudand
+AIXGAL;Aix galericulata;mandariinisorsa;mandarinand
+ANASP;Anas sp;sorsalaji;Anas (släktet)
+ANAPEN;Anas penelope;haapana;bläsand
+ANAPENXANAAME;Anas penelope X Anas americana;haapana X amerikanhaapana;bläsand X amerikansk bläsand
+ANAPENXANASTR;Anas penelope X Anas strepera;haapana X harmaasorsa;bläsand X snatterand
+ANAPENXANAPLA;Anas penelope X Anas platyrhynchos;haapana X sinisorsa;bläsand X gräsand
+ANAPENXANAACU;Anas penelope X Anas acuta;haapana X jouhisorsa;bläsand X stjärtand
+ANAAME;Anas americana;amerikanhaapana;amerikansk bläsand
+ANAFAL;Anas falcata;sirppisorsa;praktand
+ANASTR;Anas strepera;harmaasorsa;snatterand
+ANASTRXANAPLA;Anas strepera X Anas platyrhynchos;harmaasorsa X sinisorsa;snatterand X gräsand
+ANAFOR;Anas formosa;siperiantavi;gulkindad kricka
+ANACRE;Anas crecca;tavi;kricka
+ANACRE/ANAQUE;Anas crecca / Anas querquedula;tavi / heinätavi;kricka / årta
+ANACREXANACAR;Anas crecca X Anas carolinensis;tavi X amerikantavi;kricka X amerikansk kricka
+ANACREXANAPLA;Anas crecca X Anas platyrhynchos;tavi X sinisorsa;kricka X gräsand
+ANACAR;Anas carolinensis;amerikantavi;amerikansk kricka
+ANAPLA;Anas platyrhynchos;sinisorsa;gräsand
+ANAPLAXANAACU;Anas platyrhynchos X Anas acuta;sinisorsa X jouhisorsa;gräsand X stjärtand
+ANAPLAXANACLY;Anas platyrhynchos X Anas clypeata;sinisorsa X lapasorsa;gräsand X skedand
+ANARUB;Anas rubripes;nokisorsa;svartand
+ANAACU;Anas acuta;jouhisorsa;stjärtand
+ANAQUE;Anas querquedula;heinätavi;Årta
+ANADIS;Anas discors;sinisiipitavi;blåvingad årta
+ANACLY;Anas clypeata;lapasorsa;skedand
+ANASIB;Anas sibilatrix;patagonianhaapana;patagonisk bläsand
+ANABAH;Anas bahamensis;valkoposkisorsa;bahamaand
+ANACYA;Anas cyanoptera;punatavi;kanelårta
+XANA;hybrida Anatini;sorsaristeymä;simandhybrid
+NETRUF;Netta rufina;punapäänarsku;rödhuvad dykand
+AYTSP;Aythya sp;sotkalaji;Aythya (släktet)
+AYTFER;Aythya ferina;punasotka;brunand
+AYTFERXAYTFUL;Aythya ferina X Aythya fuligula;punasotka X tukkasotka;brunand X vigg
+AYTCOL;Aythya collaris;amerikantukkasotka;ringand
+AYTCOLXAYTFUL;Aythya collaris X Aythya fuligula;amerikantukkasotka X tukkasotka;ringand X vigg
+AYTNYR;Aythya nyroca;ruskosotka;vitögd dykand
+AYTFUL;Aythya fuligula;tukkasotka;vigg
+AYTFUL/AYTMAR;Aythya fuligula / Aythya marila;tukkasotka / lapasotka;vigg / bergand
+AYTFULXAYTMAR;Aythya fuligula X Aythya marila;tukkasotka X lapasotka;vigg X bergand
+AYTMAR;Aythya marila;lapasotka;bergand
+AYTAFF;Aythya affinis;pikkulapasotka;mindre bergand
+XAYT;hybrida Aythya;sotkaristeymä;dykandhybrid
+SOMSP;Somateria sp;haahkalaji;Somateria (släktet)
+SOMMOL;Somateria mollissima;haahka;ejder
+SOMMOLXSOMSPE;Somateria mollissima X Somateria spectabilis;haahka X kyhmyhaahka;ejder X praktejder
+SOMMOLXMERMER;Somateria mollissima X Mergus merganser;haahka X isokoskelo;ejder X storskrake
+SOMSPE;Somateria spectabilis;kyhmyhaahka;praktejder
+POLSTE;Polysticta stelleri;allihaahka;alförrädare
+HISHIS;Histrionicus histrionicus;virta-alli;strömand
+CLAHYE;Clangula hyemalis;alli;alfågel
+MELSP;Melanitta sp;mustalintulaji;Melanitta (släktet)
+MELNIG;Melanitta nigra;mustalintu;sjöorre
+MELNIGNIG;Melanitta nigra nigra;mustalintu (alalaji nigra);sjöorre (rasen nigra)
+MELAME;Melanitta americana;amerikanmustalintu;amerikansk sjöorre
+MELPER;Melanitta perspicillata;pilkkaniska;vitnackad svärta
+MELFUS;Melanitta fusca;pilkkasiipi;svärta
+MELFUSFUS;Melanitta fusca fusca;pilkkasiipi (alalaji fusca);svärta (rasen fusca)
+MELDEG;Melanitta deglandi;kyhmypilkkasiipi;knölsvärta
+MELDEGDEG;Melanitta deglandi deglandi;kyhmypilkkasiipi (alalaji deglandi);knölsvärta (rasen deglandi)
+MELDEGSTE;Melanitta deglandi stejnegeri;kyhmypilkkasiipi (alalaji stejnegeri);knölsvärta (rasen stejnegeri)
+BUCALB;Bucephala albeola;pikkutelkkä;buffelhuvud
+BUCCLA;Bucephala clangula;telkkä;knipa
+BUCCLAXMERALB;Bucephala clangula X Mergus albellus;telkkä X uivelo;knipa X salskrake
+MERSP;Mergus sp;koskelolaji;Mergus (släktet)
+MERCUC;Mergus cucullatus;harjakoskelo;kamskrake
+MERALB;Mergellus albellus;uivelo;salskrake
+MERSER;Mergus serrator;tukkakoskelo;småskrake
+MERSER/MERMER;Mergus serrator / Mergus merganser;tukkakoskelo / isokoskelo;småskrake / storskrake
+MERMER;Mergus merganser;isokoskelo;storskrake
+OXYSP;Oxyura sp;kuparisorsalaji;Oxyura (släktet)
+OXYJAM;Oxyura jamaicensis;kuparisorsa;amerikansk kopparand
+XV;hybrida Anatidae;vesilinturisteymä;sjöfågelhybrid
+V;Anatidae sp;vesilintu;sjöfågel
+IV;magnus Anatidae;iso vesilintu;stor sjöfågel
+PV;parvus Anatidae;pieni vesilintu;liten sjöfågel
+TETBON;Tetrastes bonasia;pyy;järpe
+LAGSP;Lagopus sp;riekkolaji;Lagopus (släktet)
+LAGLAG;Lagopus lagopus;riekko;dalripa
+LAGMUT;Lagopus muta;kiiruna;fjällripa
+TETSP;Tetrao sp;metsolaji;Tetrao (släktet)
+TETRIX;Tetrao tetrix;teeri;orre
+TETRIXXTETURO;Tetrao tetrix X Tetrao urogallus;teeri X metso;orre X tjäder
+TETURO;Tetrao urogallus;metso;tjäder
+ALECHU;Alectoris chukar;vuoripyy;berghöna
+PERPER;Perdix perdix;peltopyy;rapphöna
+COTSP;Coturnix sp;viiriäislaji;Coturnix (släktet)
+COTCOT;Coturnix coturnix;viiriäinen;vaktel
+COTJAP;Coturnix japonica;japaninviiriäinen;japansk vaktel
+PHACOL;Phasianus colchicus;fasaani;fasan
+CHRPIC;Chrysolophus pictus;kultafasaani;guldfasan
+NUMMEL;Numida meleagris;helmikana;hjälmpärlhöna
+GAVSP;Gavia sp;kuikkalaji;Gavia (släktet)
+GAVSTE;Gavia stellata;kaakkuri;smålom
+GAVARC;Gavia arctica;kuikka;storlom
+GAVPAC;Gavia pacifica;tundrakuikka;Stillahavslom
+GAVIMM;Gavia immer;amerikanjääkuikka;svartnäbbad islom
+GAVIMM/GAVADA;Gavia immer / Gavia adamsii;amerikanjääkuikka / jääkuikka;svartnäbbad islom / vitnäbbad islom
+GAVADA;Gavia adamsii;jääkuikka;vitnäbbad islom
+TACRUF;Tachybaptus ruficollis;pikku-uikku;smådopping
+PODSP;Podiceps sp;uikkulaji;Podiceps (släktet)
+PODCRI;Podiceps cristatus;silkkiuikku;skäggdopping
+PODCRI/PODGRI;Podiceps cristatus / Podiceps grisegena;silkkiuikku / härkälintu;skäggdopping / gråhakedopping
+PODGRI;Podiceps grisegena;härkälintu;gråhakedopping
+PODAUR;Podiceps auritus;mustakurkku-uikku;svarthakedopping
+PODAUR/PODNIG;Podiceps auritus / Podiceps nigricollis;mustakurkku-uikku / mustakaulauikku;svarthakedopping / svarthalsad dopping
+PODNIG;Podiceps nigricollis;mustakaulauikku;svarthalsad dopping
+FULGLA;Fulmarus glacialis;myrskylintu;stormfågel
+PUFSP;Puffinus sp;liitäjälaji;Puffinus (släktet)
+PUFGRI;Puffinus griseus;nokiliitäjä;grålira
+PUFGRI/PUFPUF;Puffinus griseus / Puffinus puffinus;nokiliitäjä / pikkuliitäjä;grålira / mindre lira
+PUFPUF;Puffinus puffinus;pikkuliitäjä;mindre lira
+HYDPEL;Hydrobates pelagicus;merikeiju;stormsvala
+HYDPEL/OCELEU/OCECAS;Hydrobates pelagicus / Oceanodroma leucorhoa / Oceanodroma castro;merikeiju / myrskykeiju / madeirankeiju;stormsvala / klykstjärtad stormsvala / oceanlöpare
+OCEMASP;Oceanodroma sp;keijulaji;Oceanodroma (släktet)
+OCELEU;Oceanodroma leucorhoa;myrskykeiju;klykstjärtad stormsvala
+OCECAS;Oceanodroma castro;madeirankeiju;oceanlöpare
+MORBAS;Morus bassanus;suula;havssula
+PHAAXSP;Phalacrocorax sp;merimetsolaji;Phalacrocorax (släktet)
+PHACAR;Phalacrocorax carbo;merimetso;storskarv
+PHACARCAR;Phalacrocorax carbo carbo;merimetso (alalaji carbo);storskarv (rasen carbo)
+PHACARSIN;Phalacrocorax carbo sinensis;merimetso (alalaji sinensis);storskarv (rasen sinensis)
+PHAARI;Phalacrocorax aristotelis;karimetso;toppskarv
+PELECSP;Pelecanus sp;pelikaanilaji;Pelecanus (släktet)
+PELONO;Pelecanus onocrotalus;pelikaani;vit pelikan
+BOTSP;Botaurus sp;kaulushaikaralaji;Botaurus (släktet)
+BOTSTE;Botaurus stellaris;kaulushaikara;rördrom
+IXOMIN;Ixobrychus minutus;pikkuhaikara;dvärgrördrom
+NYCNYC;Nycticorax nycticorax;yöhaikara;natthäger
+ARDEOSP;Ardeola sp;rääkkähaikaralaji;Ardeola (släktet)
+ARDRAL;Ardeola ralloides;rääkkähaikara;rallhäger
+ARDBAC;Ardeola bacchus;kiinanriisihaikara;Bacchushäger
+BUBIBI;Bubulcus ibis;lehmähaikara;kohäger
+EGRSP;Egretta sp;Egretta (suku);Egretta (släktet)
+EGRGAR;Egretta garzetta;silkkihaikara;silkeshäger
+EGRALB;Egretta alba;jalohaikara;ägretthäger
+ARDSP;Ardea sp;harmaahaikaralaji;Ardea (släktet)
+ARDCIN;Ardea cinerea;harmaahaikara;gråhäger
+ARDPUR;Ardea purpurea;ruskohaikara;purpurhäger
+ARD/BUB/EGR/ARDCIN;Ardeola sp / Bubulcus ibis / Egretta sp / Ardea cinerea albino;Valkoinen haikara;Ardeola (släktet) / kohäger / Egretta (släktet) / gråhäger (albino)
+CICSP;Ciconia sp;kattohaikaralaji;Ciconia (släktet)
+CICNIG;Ciconia nigra;mustahaikara;svart stork
+CICABD;Ciconia abdimii;savannihaikara;abdimstork
+CICCIC;Ciconia ciconia;kattohaikara;vit stork
+CICCIC/GRUGRU;Ciconia ciconia / Grus grus;kattohaikara / kurki;vit stork / trana
+PLEFAL;Plegadis falcinellus;pronssi-iibis;bronsibis
+PLALEU;Platalea leucorodia;kapustahaikara;skedstork
+PHOUSSP;Phoenicopterus sp;flamingolaji;Phoenicopterus (släktet)
+PHOROS;Phoenicopterus roseus;flamingo;större flamingo
+PHOMIN;Phoenicopterus minor;pikkuflamingo;mindre flamingo
+PHOCHI;Phoenicopterus chilensis;chilenflamingo;chileflamingo
+PERNISP;Pernis sp;mehiläishaukkalaji;Pernis (släktet)
+PERAPI;Pernis apivorus;mehiläishaukka;bivråk
+MILSP;Milvus sp;haarahaukkalaji;Milvus (släktet)
+MILMIG;Milvus migrans;haarahaukka;brun glada
+MILMIGXMILMIL;Milvus migrans X Milvus milvus;haarahaukka X isohaarahaukka;brun glada X röd glada
+MILMIL;Milvus milvus;isohaarahaukka;röd glada
+HALLEU;Haliaeetus leucoryphus;aromerikotka;bandhavsörn
+HALALB;Haliaeetus albicilla;merikotka;havsörn
+HALPEL;Haliaeetus pelagicus;kuningasmerikotka;jättehavsörn
+NEOPER;Neophron percnopterus;pikkukorppikotka;smutsgam
+GYPSP;Gyps sp;korppikotkalaji;Gyps (släktet)
+GYPFUL;Gyps fulvus;hanhikorppikotka;gåsgam
+AEGMON;Aegypius monachus;munkkikorppikotka;grågam
+CIRGAL;Circaetus gallicus;käärmekotka;ormörn
+CIRSP;Circus sp;suohaukkalaji;Circus (släktet)
+CIRAER;Circus aeruginosus;ruskosuohaukka;brun kärrhök
+CIRCYA;Circus cyaneus;sinisuohaukka;blå kärrhök
+CIRCYAXCIRMAC;Circus cyaneus X Circus macrourus;sinisuohaukka X arosuohaukka;blå kärrhök X stäpphök
+CIRMAC;Circus macrourus;arosuohaukka;stäpphök
+CIRMAC/CIRPYG;Circus macrourus / Circus pygargus;arosuohaukka / niittysuohaukka;stäpphök / ängshök
+CIRMACXCIRPYG;Circus macrourus X Circus pygargus;arosuohaukka X niittysuohaukka;stäpphök X ängshök
+CIRPYG;Circus pygargus;niittysuohaukka;ängshök
+CIRCYA/CIRMAC/CIRPYG;Circus cyaneus / Circus macrourus / Circus pygargus;sinisuohaukka / arosuohaukka / niittysuohaukka;blå kärrhök / stäpphök / ängshök
+ACCSP;Accipiter sp;varpushaukkalaji;Accipiter (släktet)
+ACCGEN;Accipiter gentilis;kanahaukka;duvhök
+ACCGENGEN;Accipiter gentilis gentilis;kanahaukka (alalaji gentilis);duvhök (rasen gentilis)
+ACCGENBUT;Accipiter gentilis buteoides;kanahaukka (alalaji buteoides);duvhök (rasen buteoides)
+ACCNIS;Accipiter nisus;varpushaukka;sparvhök
+BUTSP;Buteo sp;hiirihaukkalaji;Buteo (släktet)
+PER/BUT;Pernis / Buteo;mehiläishaukka / hiirihaukkalaji;ob. vråk
+BUTBUT;Buteo buteo;hiirihaukka;ormvråk
+BUTBUTBUT;Buteo buteo buteo;hiirihaukka (alalaji buteo);ormvråk (rasen buteo)
+BUTBUTVUL;Buteo buteo vulpinus;hiirihaukka (alalaji vulpinus);ormvråk (rasen vulpinus)
+BUTRUF;Buteo rufinus;arohiirihaukka;örnvråk
+BUTLAG;Buteo lagopus;piekana;fjällvråk
+AQUSP;Aquila sp;kotkalaji (Aquila);Aquila (släktet)
+AQUPOM;Aquila pomarina;pikkukiljukotka;mindre skrikörn
+AQUPOM X AQUCLA;Aquila pomarina x Aquila clanga;pikkukiljukotka x kiljukotka;mindre skrikörn x större skrikörn
+AQUPOM/AQUCLA/AQUNIP/AQUHEL;Aquila pomarina / Aquila clanga / Aquila nipalensis / Aquila heliaca;pikkukiljukotka / kiljukotka / arokotka / keisarikotka;mindre skrikörn / större skrikörn / stäppörn / kejsarörn
+AQUPOM/AQUCLA/AQUNIP;Aquila pomarina / Aquila clanga / Aquila nipalensis;pikkukiljukotka / kiljukotka / arokotka;mindre skrikörn / större skrikörn / stäppörn
+AQUPOM/AQUCLA;Aquila pomarina / Aquila clanga;pikkukiljukotka / kiljukotka;mindre skrikörn / större skrikörn
+AQUCLA;Aquila clanga;kiljukotka;större skrikörn
+AQUNIP;Aquila nipalensis;arokotka;stäppörn
+AQUNIP/AQUHEL;Aquila nipalensis / Aquila heliaca;arokotka / keisarikotka;stäppörn / kejsarörn
+AQUHEL;Aquila heliaca;keisarikotka;kejsarörn
+AQUCHR;Aquila chrysaetos;maakotka;kungsörn
+AQUPEN;Aquila pennata;pikkukotka;dvärgörn
+HAL/AQU;Haliaetus / Aquila;kotkalaji;ob. örn
+PANHAL;Pandion haliaetus;sääksi;fiskgjuse
+FALSP;Falco sp;jalohaukkalaji;Falco (släktet)
+FALNAU;Falco naumanni;pikkutuulihaukka;rödfalk
+FALNAU/FALTIN;Falco naumanni / Falco tinnunculus;pikkutuulihaukka / tuulihaukka;rödfalk / tornfalk
+FALTIN;Falco tinnunculus;tuulihaukka;tornfalk
+FALVES;Falco vespertinus;punajalkahaukka;aftonfalk
+FALVES/FALSUB;Falco vespertinus / Falco subbuteo;punajalkahaukka / nuolihaukka;aftonfalk / lärkfalk
+FALCOL;Falco columbarius;ampuhaukka;stenfalk
+FALSUB;Falco subbuteo;nuolihaukka;lärkfalk
+FALELE;Falco eleonorae;välimerenhaukka;eleonorafalk
+FALCHE;Falco cherrug;aavikkohaukka;tatarfalk
+FALRUS;Falco rusticolus;tunturihaukka;jaktfalk
+FALPER;Falco peregrinus;muuttohaukka;pilgrimsfalk
+FALPERPER;Falco peregrinus peregrinus;muuttohaukka (alalaji peregrinus);pilgrimsfalk (rasen peregrinus)
+FALPERCAL;Falco peregrinus calidus;muuttohaukka (alalaji calidus);pilgrimsfalk (rasen calidus)
+PFAL;parvus Falco;pieni jalohaukka;liten falk
+IFAL;magnus Falco;iso jalohaukka;stor falk
+P;Accipitriformes sp;päiväpetolintu;dagrovfågel
+IP;magnus Accipitriformes;iso päiväpetolintu;stor dagrovfågel
+PP;parvus Accipitriformes;pieni päiväpetolintu;liten dagrovfågel
+RALAQU;Rallus aquaticus;luhtakana;vattenrall
+PORSP;Porzana sp;huittilaji;Porzana (släktet)
+PORPOR;Porzana porzana;luhtahuitti;småfläckig sumphöna
+PORCAR;Porzana carolina;amerikanhuitti;karolinasumphöna
+PORPAR;Porzana parva;pikkuhuitti;mindre sumphöna
+PORPAR/PORPUS;Porzana parva / Porzana pusilla;pikkuhuitti / kääpiöhuitti;mindre sumphöna / dvärgsumphöna
+PORPUS;Porzana pusilla;kääpiöhuitti;dvärgsumphöna
+RAL/POR;Rallus / Porzana;luhtakana / huittilaji;vattenrall / sumphöna
+CRECRE;Crex crex;ruisrääkkä;kornknarr
+GALCHL;Gallinula chloropus;liejukana;rörhöna
+GALCHL/FULATR;Gallinula chloropus / Fulica atra;liejukana / nokikana;rörhöna / sothöna
+PORPHSP;Porphyrio sp;sulttaanikanalaji;Porphyrio (släktet)
+PORALL;Porphyrio alleni;kurnuliejukana;mindre sultanhöna
+FULSP;Fulica sp;nokikanalaji;Fulica (släktet)
+FULATR;Fulica atra;nokikana;sothöna
+GRUGRU;Grus grus;kurki;trana
+GRUCAN;Grus canadensis;hietakurki;prärietrana
+GRUVIR;Grus virgo;neitokurki;jungfrutrana
+TETRAX;Tetrax tetrax;pikkutrappi;småtrapp
+CHLMAC;Chlamydotis macqueenii;idänkaulustrappi;kragtrapp
+OTITAR;Otis tarda;isotrappi;stortrapp
+HAEOST;Haematopus ostralegus;meriharakka;strandskata
+HIMHIM;Himantopus himantopus;pitkäjalka;styltlöpare
+RECAVO;Recurvirostra avosetta;avosetti;skärfläcka
+BUROED;Burhinus oedicnemus;paksujalka;tjockfot
+CURCUR;Cursorius cursor;aavikkojuoksija;ökenlöpare
+GLASP;Glareola sp;kahlaajapääskylaji;Glareola (släktet)
+GLAPRA;Glareola pratincola;pääskykahlaaja;rödvingad vadarsvala
+GLANOR;Glareola nordmanni;aropääskykahlaaja;svartvingad vadarsvala
+CHASP;Charadrius sp;tyllilaji;Charadrius (släktet)
+CHADUB;Charadrius dubius;pikkutylli;mindre strandpipare
+CHADUB/CHAHIA;Charadrius dubius / Charadrius hiaticula;pikkutylli / tylli;mindre strandpipare / större strandpipare
+CHAHIA;Charadrius hiaticula;tylli;större strandpipare
+CHAALE;Charadrius alexandrinus;mustajalkatylli;svartbent strandpipare
+CHAMON;Charadrius mongolus;ylänkötylli;mongolpipare
+CHAMON/CHALES;Charadrius mongolus / Charadrius leschenaultii;ylänkötylli / aavikkotylli;mongolpipare / ökenpipare
+CHALES;Charadrius leschenaultii;aavikkotylli;ökenpipare
+CHAASI;Charadrius asiaticus;kaspiantylli;kaspisk pipare
+CHAVER;Charadrius veredus;gobintylli;orientpipare
+CHAMOR;Charadrius morinellus;keräkurmitsa;fjällpipare
+PLUSP;Pluvialis sp;kurmitsalaji;Pluvialis (släktet)
+PLUDOM;Pluvialis dominica;amerikankurmitsa;amerikansk tundrapipare
+PLUDOM/PLUFUL;Pluvialis dominica / Pluvialis fulva;amerikankurmitsa / siperiankurmitsa;amerikansk tundrapipare / sibirisk tundrapipare
+PLUFUL;Pluvialis fulva;siperiankurmitsa;sibirisk tundrapipare
+PLUAPR;Pluvialis apricaria;kapustarinta;ljungpipare
+PLUSQU;Pluvialis squatarola;tundrakurmitsa;kustpipare
+VANGRE;Vanellus gregarius;arohyyppä;stäppvipa
+VANLEU;Vanellus leucurus;suohyyppä;sumpvipa
+VANVAN;Vanellus vanellus;töyhtöhyyppä;tofsvipa
+CALSP;Calidris sp;sirrilaji;Calidris (släktet)
+CALCAN;Calidris canutus;isosirri;kustsnäppa
+CALCAN/CALFER;Calidris canutus / Calidris ferruginea;isosirri / kuovisirri;kustsnäppa / spovsnäppa
+CALALB;Calidris alba;pulmussirri;sandlöpare
+CALRCO;Calidris ruficollis;rusokaulasirri;rödhalsad snäppa
+CALUTA;Calidris minuta;pikkusirri;småsnäppa
+CALUTA/CALTEM;Calidris minuta / Calidris temminckii;pikkusirri / lapinsirri;småsnäppa / mosnäppa
+CALTEM;Calidris temminckii;lapinsirri;mosnäppa
+CALSMI;Calidris subminuta;siperiansirri;långtåsnäppa
+CALLLA;Calidris minutilla;amerikansirri;dvärgsnäppa
+CALFUS;Calidris fuscicollis;valkoperäsirri;vitgumpsnäppa
+CALBAI;Calidris bairdii;eskimosirri;gulbröstad snäppa
+CALMEL;Calidris melanotos;palsasirri;tuvsnäppa
+CALACU;Calidris acuminata;suippopyrstösirri;spetsstjärtad snäppa
+CALFER;Calidris ferruginea;kuovisirri;spovsnäppa
+CALHIM;Calidris himantopus;pitkäkoipisirri;styltsnäppa
+CALMAR;Calidris maritima;merisirri;skärsnäppa
+CALALP;Calidris alpina;suosirri;kärrsnäppa
+CALALPSCH;Calidris alpina schinzii;etelänsuosirri;kärrsnäppa (rasen schinzii)
+CALALPALP;Calidris alpina alpina;suosirri (alalaji alpina);kärrsnäppa (rasen alpina)
+CALFAL;Calidris falcinellus;jänkäsirriäinen;myrsnäppa
+CALSRU;Calidris subruficollis;tundravikla;prärielöpare
+CALPUG;Calidris pugnax;suokukko;brushane
+LYMMIN;Lymnocryptes minimus;jänkäkurppa;dvärgbeckasin
+GALSP;Gallinago sp;taivaanvuohilaji;Gallinago (släktet)
+GALGAL;Gallinago gallinago;taivaanvuohi;enkelbeckasin
+GALMEG;Gallinago megala;siperiankurppa;taigabeckasin
+GALDEL;Gallinago delicata;amerikantaivaanvuohi;wilsonbeckasin
+GALMED;Gallinago media;heinäkurppa;dubbelbeckasin
+LYM/GAL;Lymnocryptes / Gallinago;jänkäkurppa / taivaanvuohi / heinäkurppa;ob. beckasin
+LIMNOSP;Limnodromus sp;kurppelolaji;Limnodromus (släktet)
+LIMSCO;Limnodromus scolopaceus;tundrakurppelo;större beckasinsnäppa
+SCORUS;Scolopax rusticola;lehtokurppa;morkulla
+LIMSP;Limosa sp;kuirilaji;Limosa (släktet)
+LIMLIM;Limosa limosa;mustapyrstökuiri;rödspov
+LIMLIMISL;Limosa limosa islandica;mustapyrstökuiri (alalaji islandica);rödspov (rasen islandica)
+LIMLAP;Limosa lapponica;punakuiri;myrspov
+NUMSP;Numenius sp;kuovilaji;Numenius (släktet)
+NUMMIN;Numenius minutus;taigakuovi;dvärgspov
+NUMPHA;Numenius phaeopus;pikkukuovi;småspov
+NUMARQ;Numenius arquata;kuovi;storspov
+LIM/NUM;Limosa / Numenius;kuirilaji / kuovilaji;ob. spov
+TRISP;Tringa sp;viklolaji;Tringa (släktet)
+TRIERY;Tringa erythropus;mustaviklo;svartsnäppa
+TRITOT;Tringa totanus;punajalkaviklo;rödbena
+TRISTA;Tringa stagnatilis;lampiviklo;dammsnäppa
+TRINEB;Tringa nebularia;valkoviklo;gluttsnäppa
+TRIFLA;Tringa flavipes;keltajalkaviklo;mindre gulbena
+TRIOCH;Tringa ochropus;metsäviklo;skogssnäppa
+TRIGLA;Tringa glareola;liro;grönbena
+XENCIN;Xenus cinereus;rantakurvi;tereksnäppa
+ACTSP;Actitis sp;rantasipilaji;Actitis (släktet)
+ACTHYP;Actitis hypoleucos;rantasipi;drillsnäppa
+ACTMAC;Actitis macularius;amerikansipi;fläckdrillsnäppa
+TRISEM;Tringa semipalmata;preeriaviklo;willetsnäppa
+AREINT;Arenaria interpres;karikukko;roskarl
+PHAUSSP;Phalaropus sp;vesipääskylaji;Phalaropus (släktet)
+PHATRI;Phalaropus tricolor;amerikanvesipääsky;wilsonsimsnäppa
+PHALOB;Phalaropus lobatus;vesipääsky;smalnäbbad simsnäppa
+PHALOB/PHAFUL;Phalaropus lobatus / Phalaropus fulicarius;vesipääsky / isovesipääsky;smalnäbbad simsnäppa / brednäbbad simsnäppa
+PHAFUL;Phalaropus fulicarius;isovesipääsky;brednäbbad simsnäppa
+XK;XK (kahlaajaristeymä);kahlaajaristeymä;vadarhybrid
+K;K (kahlaaja);kahlaaja;ob. vadare
+IK;IK (iso kahlaaja);iso kahlaaja;stor vadare
+KK;KK (Keskikokoinen kahlaaja);keskikokoinen kahlaaja;medelstor vadare
+PK;PK (pieni kahlaaja);pieni kahlaaja;liten vadare
+KK/IK;KK / IK (keskikokoinen / iso kahlaaja);keskikokoinen / iso kahlaaja;medelstor / stor vadare
+PK/KK;PK / KK (pieni / keskikokoinen kahlaaja);pieni / keskikokoinen kahlaaja;liten / medelstor vadare
+STERCSP;Stercorarius sp;kihulaji;Stercorarius (släktet)
+STEPOM;Stercorarius pomarinus;leveäpyrstökihu;bredstjärtad labb
+STEPOM/STECUS;Stercorarius pomarinus / Stercorarius parasiticus;leveäpyrstökihu / merikihu;bredstjärtad labb / kustlabb
+STECUS;Stercorarius parasiticus;merikihu;kustlabb
+STELON;Stercorarius longicaudus;tunturikihu;fjällabb
+STESKU;Stercorarius skua;isokihu;storlabb
+LARSP;Larus sp;lokkilaji;Larus (släktet)
+LARMEL;Larus melanocephalus;mustanmerenlokki;svarthuvad mås
+LARATR;Larus atricilla;nokisiipilokki;sotvingad mås
+LARPIP;Larus pipixcan;preerianaurulokki;präriemås
+HYDMIN;Hydrocoloeus minutus;pikkulokki;dvärgmås
+LARMIN/RISTRI;Larus minutus / Rissa tridactyla;pikkulokki / pikkukajava;dvärgmås / tretåig mås
+XEMSAB;Xema sabini;tiiralokki;tärnmås
+LARRID;Larus ridibundus;naurulokki;skrattmås
+LARGEN;Larus genei;kaitanokkalokki;långnäbbad mås
+LARAUD;Larus audouinii;välimerenlokki;rödnäbbad trut
+LARCAN;Larus canus;kalalokki;fiskmås
+LARCANCAN;Larus canus canus;kalalokki (alalaji canus);fiskmås (rasen canus)
+LARCANHEI;Larus canus heinei;kalalokki (alalaji heinei);fiskmås (rasen heinei)
+LARCAN/LARARG;Larus canus / Larus argentatus;kalalokki / harmaalokki;fiskmås / gråtrut
+LARFUS;Larus fuscus;selkälokki;silltrut
+LARFUSGRA;Larus fuscus graellsii;selkälokki (alalaji graellsii);silltrut (rasen graellsii)
+LARFUSINT;Larus fuscus intermedius;selkälokki (alalaji intermedius);silltrut (rasen intermedius)
+LARFUSFUS;Larus fuscus fuscus;selkälokki (alalaji fuscus);silltrut (rasen fuscus)
+LARFUSHEU;Larus fuscus heuglini;selkälokki (alalaji heuglini);silltrut (rasen heuglini)
+LARFUS/LARMAR;Larus fuscus / Larus marinus;selkälokki / merilokki;silltrut / havstrut
+LARFUSGRA/LARFUSINT/LARFUSHEU;Larus fuscus graellsii / Larus fuscus intermedius / Larus fuscus heuglini;selkälokki (alalaji graellsii) / selkälokki (alalaji intermedius) / selkälokki (alalaji heuglini);silltrut (rasen graellsii) / silltrut (rasen intermedius) / silltrut (rasen heuglini)
+LARFUSGRA/LARFUSINT;Larus fuscus graellsii / Larus fuscus intermedius;selkälokki (alalaji graellsii) / selkälokki (alalaji intermedius);silltrut (rasen graellsii) / silltrut (rasen intermedius)
+LARFUSXLARARG;Larus fuscus X Larus argentatus;selkälokki X harmaalokki;silltrut X gråtrut
+LARARG;Larus argentatus;harmaalokki;gråtrut
+LARARG/LARCAC;Larus argentatus / Larus cachinnans;harmaalokki / aroharmaalokki;gråtrut / kaspisk trut
+LARARGXLARGLA;Larus argentatus X Larus glaucoides;harmaalokki X grönlanninlokki;gråtrut X vitvingad trut
+LARARGXLARHYP;Larus argentatus X Larus hyperboreus;harmaalokki X isolokki;gråtrut X vittrut
+LARARGXLARMAR;Larus argentatus X Larus marinus;harmaalokki X merilokki;gråtrut X havstrut
+LARMIC;Larus michahellis;etelänharmaalokki;medelhavstrut
+LARCAC;Larus cachinnans;aroharmaalokki;kaspisk trut
+LARSCH;Larus schistisagus;ohotanlokki;skiffertrut
+LARGLA;Larus glaucoides;grönlanninlokki;vitvingad trut
+LARGLAGLA;Larus glaucoides glaucoides;grönlanninlokki (alalaji glaucoides);vitvingad trut (rasen glaucoides)
+LARGLAKUM;Larus glaucoides kumlieni;grönlanninlokki (alalaji kumlieni);vitvingad trut (rasen kumlieni)
+LARGLA/LARHYP;Larus glaucoides / Larus hyperboreus;grönlanninlokki / isolokki;vitvingad trut / vittrut
+LARHYP;Larus hyperboreus;isolokki;vittrut
+LARMAR;Larus marinus;merilokki;havstrut
+ILAR;magnus Larus;merilokki / harmaalokki / selkälokki / isolokki;ob. trut
+RHOROS;Rhodostethia rosea;ruusulokki;rosenmås
+RISTRI;Rissa tridactyla;pikkukajava;tretåig mås
+PLAR;parvus Laridae;kalalokki / naurulokki / pikkulokki / pikkukajava;ob. mås
+PAGEBU;Pagophila eburnea;jäälokki;ismås
+XLAR;hybrida Larus;lokkiristeymä;mås- / truthybrid
+STERNSP/CHLSP;Sterna sp / Chlidonias sp;tiira;ob. tärna
+STERNSP;Sterna sp;tiiralaji (Sterna);Sterna (släktet)
+GELNIL;Gelochelidon nilotica;hietatiira;sandtärna
+STENIL/STESAN;Sterna nilotica / Sterna sandvicensis;hietatiira / riuttatiira;sandtärna / kentsk tärna
+HYDCAS;Hydroprogne caspia;räyskä;skräntärna
+STESAN;Sterna sandvicensis;riuttatiira;kentsk tärna
+STEHIR;Sterna hirundo;kalatiira;fisktärna
+STEHIR/STEAEA;Sterna hirundo / Sterna paradisaea;kalatiira / lapintiira;fisktärna / silvertärna
+STEAEA;Sterna paradisaea;lapintiira;silvertärna
+STEALB;Sternula albifrons;pikkutiira;småtärna
+CHLSP;Chlidonias sp;mustatiiralaji;Chlidonias (släktet)
+CHLHYB;Chlidonias hybrida;valkoposkitiira;skäggtärna
+CHLNIG;Chlidonias niger;mustatiira;svarttärna
+CHLLEU;Chlidonias leucopterus;valkosiipitiira;vitvingad tärna
+URIAAL;Uria aalge;etelänkiisla;sillgrissla
+URILOM;Uria lomvia;pohjankiisla;spetsbergsgrissla
+ALCTOR;Alca torda;ruokki;tordmule
+URI/ALC;Uria / Alca;kiislalaji / ruokki;ob. alka
+CEPGRY;Cepphus grylle;riskilä;tobisgrissla
+ALLALL;Alle alle;pikkuruokki;alkekung
+FRAARC;Fratercula arctica;lunni;lunnefågel
+SYRPAR;Syrrhaptes paradoxus;arokyyhky;stäppflyghöna
+COLSP;Columba sp;Columba (suku);Columba (släktet)
+colsp / cormon;Columba / Corvus monedula;kyyhky / naakka;duva / kaja
+COLLIV;Columba livia;kesykyyhky;tamduva
+COLOEN;Columba oenas;uuttukyyhky;skogsduva
+COLPAL;Columba palumbus;sepelkyyhky;ringduva
+STREPSP;Streptopelia sp;Streptopelia (suku);Streptopelia (släktet)
+STRDEC;Streptopelia decaocto;turkinkyyhky;turkduva
+STRDECXSTRTUR;Streptopelia decaocto X Streptopelia turtur;turkinkyyhky X turturikyyhky;turkduva X turturduva
+STRTUR;Streptopelia turtur;turturikyyhky;turturduva
+STRORI;Streptopelia orientalis;idänturturikyyhky;större turturduva
+STRORIMEE;Streptopelia orientalis meena;idänturturikyyhky (alalaji meena);större turturduva (rasen meena)
+STRORIORI;Streptopelia orientalis orientalis;idänturturikyyhky (alalaji orientalis);större turturduva (rasen orientalis)
+STRSEN;Streptopelia senegalensis;palmukyyhky;palmduva
+PSIKRA;Psittacula krameri;kauluskaija;halsbandsparakit
+CLAJAC;Clamator jacobinus;jakobiinikäki;jakobinskatgök
+CLAGLA;Clamator glandarius;harakkakäki;skatgök
+CUCSP;Cuculus sp;käkilaji;Cuculus (släktet)
+CUCCAN;Cuculus canorus;käki;gök
+CUCSAT;Cuculus saturatus;idänkäki;taigagök
+TYTALB;Tyto alba;tornipöllö;tornuggla
+TYTALBALB;Tyto alba alba;tornipöllö (alalaji alba);tornuggla (rasen alba)
+TYTALBGUT;Tyto alba guttata;tornipöllö (alalaji guttata);tornuggla (rasen guttata)
+OTUSCO;Otus scops;kyläpöllönen;dvärguv
+BUBBUB;Bubo bubo;huuhkaja;berguv
+BUBSCA;Bubo scandiacus;tunturipöllö;fjälluggla
+SURULU;Surnia ulula;hiiripöllö;hökuggla
+GLAPAS;Glaucidium passerinum;varpuspöllö;sparvuggla
+ATHNOC;Athene noctua;minervanpöllö;minervauggla
+STRIXSP;Strix sp;viirupöllölaji;Strix (släktet)
+STRALU;Strix aluco;lehtopöllö;kattuggla
+STRURA;Strix uralensis;viirupöllö;slaguggla
+STRURA/STRNEB;Strix uralensis / Strix nebulosa;viirupöllö / lapinpöllö;slaguggla / lappuggla
+STRNEB;Strix nebulosa;lapinpöllö;lappuggla
+ASISP;Asio sp;sarvipöllölaji;Asio (släktet)
+ASIOTU;Asio otus;sarvipöllö;hornuggla
+ASIFLA;Asio flammeus;suopöllö;jorduggla
+AEGFUN;Aegolius funereus;helmipöllö;pärluggla
+IPÖL;magnus Strigidae;iso pöllö;stor uggla
+KPÖL;medium Strigiformes;keskikokoinen pöllö;medelstor uggla
+PPÖL;parvus Strigidae;pieni pöllö;liten uggla
+PÖL;Strigiformes sp;pöllö;ob. uggla
+CAPEUR;Caprimulgus europaeus;kehrääjä;nattskärra
+HIRUSSP;Hirundapus sp;piikkikiitäjälaji;Hirundapus (släktet)
+HIRCAU;Hirundapus caudacutus;piikkipyrstökiitäjä;taggstjärtseglare
+APUSP;Apus sp;tervakiitäjälaji;Apus (släktet)
+APUMEL;Apus melba;alppikiitäjä;alpseglare
+APUAPU;Apus apus;tervapääsky;tornseglare
+APUPAL;Apus pallidus;vaaleakiitäjä;blek tornseglare
+APUCAF;Apus caffer;kafferikiitäjä;kafferseglare
+ALCATT;Alcedo atthis;kuningaskalastaja;kungsfiskare
+MEROPSP;Merops sp;mehiläissyöjälaji;Merops (släktet)
+MERPER;Merops persicus;vihermehiläissyöjä;grön biätare
+MERAPI;Merops apiaster;mehiläissyöjä;biätare
+CORGAR;Coracias garrulus;sininärhi;blåkråka
+UPUEPO;Upupa epops;harjalintu;härfågel
+PIC/DEN/DRY;Picus / Dendrocopos / Dryocopus / Picoides;tikkalaji;spett
+JYNTOR;Jynx torquilla;käenpiika;göktyta
+PICUSSP;Picus sp;vihertikkalaji;Picus (släktet)
+PICCAN;Picus canus;harmaapäätikka;gråspett
+PICCAN/PICVIR;Picus canus / Picus viridis;harmaapäätikka / vihertikka;gråspett / gröngöling
+PICVIR;Picus viridis;vihertikka;gröngöling
+DRYMAR;Dryocopus martius;palokärki;spillkråka
+DENSP;Dendrocopos sp;kirjotikkalaji;Dendrocopos (släktet)
+DENMAJ;Dendrocopos major;käpytikka;större hackspett
+DENMAJXDENLEU;Dendrocopos major X Dendrocopos leucotos;käpytikka X valkoselkätikka;större hackspett X vitryggig hackspett
+DENMED;Dendrocopos medius;tammitikka;mellanspett
+DENLEU;Dendrocopos leucotos;valkoselkätikka;vitryggig hackspett
+DENLEU/DENMIN;Dendrocopos leucotos / Dendrocopos minor;valkoselkätikka / pikkutikka;vitryggig hackspett / mindre hackspett
+DENMIN;Dendrocopos minor;pikkutikka;mindre hackspett
+PICTRI;Picoides tridactylus;pohjantikka;tretåig hackspett
+KT;medium Picidae;keskikokoinen tikka;medelstor hackspett
+MELHASP;Melanocorypha sp;isokiurulaji;Melanocorypha (släktet)
+MELCAL;Melanocorypha calandra;arokiuru;kalanderlärka
+MELCAL/MELBIM;Melanocorypha calandra / Melanocorypha bimaculata;arokiuru / ylänkökiuru;kalanderlärka / asiatisk kalanderlärka
+MELBIM;Melanocorypha bimaculata;ylänkökiuru;asiatisk kalanderlärka
+MELLEU;Melanocorypha leucoptera;valkosiipikiuru;vitvingad lärka
+MELYEL;Melanocorypha yeltoniensis;mustakiuru;svartlärka
+CALANSP;Calandrella sp;hietakiurulaji;Calandrella (släktet)
+CALBRA;Calandrella brachydactyla;lyhytvarvaskiuru;korttålärka
+CALENS;Calandrella rufescens;pikkukiuru;dvärglärka
+GALERSP;Galerida sp;töyhtökiurulaji;Galerida (släktet)
+GALCRI;Galerida cristata;töyhtökiuru;tofslärka
+LULARB;Lullula arborea;kangaskiuru;trädlärka
+ALASP;Alauda sp;kiurulaji (Alauda);Alauda (släktet)
+ALAARV;Alauda arvensis;kiuru;sånglärka
+EREALP;Eremophila alpestris;tunturikiuru;berglärka
+RIPRIP;Riparia riparia;törmäpääsky;backsvala
+PTYRUP;Ptyonoprogne rupestris;kalliopääsky;klippsvala
+HIRSP;Hirundo sp;haarapääskylaji;Hirundo (släktet)
+HIRRUS;Hirundo rustica;haarapääsky;ladusvala
+HIRRUS/DELURB;Hirundo rustica / Delichon urbicum;haarapääsky / räystäspääsky;ladusvala / hussvala
+HIRRUSXDELURB;Hirundo rustica X Delichon urbicum;haarapääsky X räystäspääsky;ladusvala X hussvala
+CECDAU;Cecropis daurica;ruostepääsky;rostgumpsvala
+CECDAURUF;Cecropis daurica rufula;ruostepääsky (alalaji rufula);rostgumpsvala (rasen rufula)
+CECDAUDAU/JAP;Cecropis daurica daurica/japonica;ruostepääsky (alalaji daurica/japonica);rostgumpsvala (rasen daurica/japonica)
+DELURB;Delichon urbicum;räystäspääsky;hussvala
+RIP/HIR/DEL;Riparis / Hirundo / Delighon;pääsky;ob. svala
+ANTSP;Anthus sp;kirvislaji;Anthus (släktet)
+ANTRIC;Anthus richardi;isokirvinen;större piplärka
+ANTRIC/ANTGOD;Anthus richardi / Anthus godlewskii;isokirvinen / mongoliankirvinen;större piplärka / mongolpiplärka
+ANTRIC/ANTGOD/ANTCAM;Anthus richardi / Anthus godlewskii / Anthus campestris;isokirvinen / mongoliankirvinen / nummikirvinen;större piplärka / mongolpiplärka / fältpiplärka
+ANTGOD;Anthus godlewskii;mongoliankirvinen;mongolpiplärka
+ANTCAM;Anthus campestris;nummikirvinen;fältpiplärka
+ANTHOD;Anthus hodgsoni;taigakirvinen;sibirisk piplärka
+ANTHOD/ANTTRI;Anthus hodgsoni / Anthus trivialis;taigakirvinen / metsäkirvinen;sibirisk piplärka / trädpiplärka
+ANTTRI;Anthus trivialis;metsäkirvinen;trädpiplärka
+ANTGUS;Anthus gustavi;tundrakirvinen;tundrapiplärka
+ANTPRA;Anthus pratensis;niittykirvinen;ängspiplärka
+ANTCER;Anthus cervinus;lapinkirvinen;rödstrupig piplärka
+ANTSPI/ANTPET;Anthus spinoletta / Anthus petrosus;vuorikirvinen / luotokirvinen;vattenpiplärka / skärpiplärka
+ANTPET;Anthus petrosus;luotokirvinen;skärpiplärka
+MOTSP;Motacilla sp;västäräkkilaji;Motacilla (släktet)
+MOTFLA;Motacilla flava;keltavästäräkki;gulärla
+MOTFLAAVA;Motacilla flava flava;keltavästäräkki (alalaji flava);gulärla (rasen flava)
+MOTFLAIMA;Motacilla flava flavissima;keltavästäräkki (alalaji flavissima);gulärla (rasen flavissima)
+MOTFLATHU;Motacilla flava thunbergi;keltavästäräkki (alalaji thunbergi);gulärla (rasen thunbergi)
+MOTFLABEE;Motacilla flava beema;keltavästäräkki (alalaji beema);gulärla (rasen beema)
+MOTFLALUT;Motacilla flava lutea;keltavästäräkki (alalaji lutea);gulärla (rasen lutea)
+MOTFLAFEL;Motacilla flava feldegg;keltavästäräkki (alalaji feldegg);gulärla (rasen feldegg)
+MOTFLA/MOTCIT;Motacilla flava / Motacilla citreola;keltavästäräkki / sitruunavästäräkki;gulärla / citronärla
+MOTFLAIMA/MOTFLALUT;Motacilla flava flavissima / Motacilla flava lutea;keltavästäräkki (alalaji flavissima) / keltavästäräkki (alalaji lutea);gulärla (rasen flavissima) / gulärla (rasen lutea)
+MOTFLAXMOTCIT;Motacilla flava X Motacilla citreola;keltavästäräkki X sitruunavästäräkki;gulärla X citronärla
+MOTCIT;Motacilla citreola;sitruunavästäräkki;citronärla
+MOTCIN;Motacilla cinerea;virtavästäräkki;forsärla
+MOTALB;Motacilla alba;västäräkki;sädesärla
+MOTALBYAR;Motacilla alba yarrellii;englanninvästäräkki;sädesärla (rasen yarrellii)
+MOTALBALB;Motacilla alba alba;västäräkki (alalaji alba);sädesärla (rasen alba)
+MOTALB x MOTALBYAR;Motacilla alba x Motacilla alba yarrellii;västäräkki x englanninvästäräkki;sädesärla (rasen alba) x sädesärla (rasen yarrellii)
+MOTALBLEU;Motacilla alba leucopsis;västäräkki (alalaji leucopsis);sädesärla (rasen leucopsis)
+XMOT;hybrida Motacilla;västäräkkiristeymä;ärlehybrid
+BOMGAR;Bombycilla garrulus;tilhi;sidensvans
+CINCIN;Cinclus cinclus;koskikara;strömstare
+TROTRO;Troglodytes troglodytes;peukaloinen;gärdsmyg
+PRUSP;Prunella sp;rautiaislaji;Prunella (släktet)
+PRUMOD;Prunella modularis;rautiainen;järnsparv
+PRUMON;Prunella montanella;taigarautiainen;sibirisk järnsparv
+PRUATR;Prunella atrogularis;mustakurkkurautiainen;svartstrupig järnsparv
+PRUCOL;Prunella collaris;alppirautiainen;alpjärnsparv
+CERGAL;Cercotrichas galactotes;ruostepyrstö;trädnäktergal
+ERIRUB;Erithacus rubecula;punarinta;rödhake
+LUSSP;Luscinia sp;satakielilaji;Luscinia (släktet)
+LUSLUS;Luscinia luscinia;satakieli;näktergal
+LUSLUS/LUSMEG;Luscinia luscinia / Luscinia megarhynchos;satakieli / etelänsatakieli;näktergal / sydnäktergal
+LUSMEG;Luscinia megarhynchos;etelänsatakieli;sydnäktergal
+CALCAL;Calliope calliope;rubiinisatakieli;rubinnäktergal
+LUSSVE;Luscinia svecica;sinirinta;blåhake
+LUSSVECYA;Luscinia svecica cyanecula;valkotäpläsinirinta;blåhake (rasen cyanecula)
+LUSSVESVE;Luscinia svecica svecica;sinirinta (alalaji svecica);blåhake (rasen svecica)
+TARCYA;Tarsiger cyanurus;sinipyrstö;blåstjärt
+PHOSP;Phoenicurus sp;leppälintulaji;Phoenicurus (släktet)
+PHOOCH;Phoenicurus ochruros;mustaleppälintu;svart rödstjärt
+PHOOCH/PHOPHO;Phoenicurus ochruros / Phoenicurus phoenicurus;mustaleppälintu / leppälintu;svart rödstjärt / rödstjärt
+PHOOCHXPHOPHO;Phoenicurus ochruros X Phoenicurus phoenicurus;mustaleppälintu X leppälintu;svart rödstjärt X rödstjärt
+PHOPHO;Phoenicurus phoenicurus;leppälintu;rödstjärt
+PHOPHOPHO;Phoenicurus phoenicurus phoenicurus;leppälintu (alalaji phoenicurus);rödstjärt (rasen phoenicurus)
+PHOPHOSAM;Phoenicurus phoenicurus samamisicus;leppälintu (alalaji samamisicus);rödstjärt (rasen samamisicus)
+PHORUS;Phoenicurus erythrogastrus;vuorileppälintu;bergrödstjärt
+SAXTRA;Saxicola rubetra;pensastasku;buskskvätta
+SAXMAU;Saxicola maurus;sepeltasku;vitgumpad buskskvätta
+SAXMAUMAU;Saxicola maurus maurus;sepeltasku (alalaji maurus);vitgumpad buskskvätta (rasen maurus)
+SAXMAUSTE;Saxicola maurus stejnegeri;sepeltasku (alalaji stejnegeri);vitgumpad buskskvätta (rasen stejnegeri)
+SAXMAUVAR;Saxicola maurus variegatus;sepeltasku (alalaji variegatus);vitgumpad buskskvätta (rasen variegatus)
+SAXOLA;Saxicola rubicola;mustapäätasku;svarthakad buskskvätta
+SAXOLARUB;Saxicola rubicola rubicola;mustapäätasku (alalaji rubicola);svarthakad buskskvätta (rasen rubicola)
+SAXOLAHIB;Saxicola rubicola hibernans;mustapäätasku (alalaji hibernans);svarthakad buskskvätta (rasen hibernans)
+SAXMAU/SAXOLA;Saxicola maurus / Saxicola rubicola;sepeltasku / mustapäätasku;svarthakad buskskvätta / vitgumpad buskskvätta
+SAXCAP;Saxicola caprata;nokitasku;svart buskskvätta
+OENSP;Oenanthe sp;kivitaskulaji;Oenanthe (släktet)
+OENISA;Oenanthe isabellina;arotasku;isabellastenskvätta
+OENOEN;Oenanthe oenanthe;kivitasku;stenskvätta
+OENPLE;Oenanthe pleschanka;nunnatasku;nunnestenskvätta
+OENPLE/OENHIS;Oenanthe pleschanka / Oenanthe hispanica;nunnatasku / rusotasku;nunnestenskvätta / medelhavsstenskvätta
+OENHIS;Oenanthe hispanica;rusotasku;medelhavsstenskvätta
+OENHISHIS;Oenanthe hispanica hispanica;rusotasku (alalaji hispanica);medelhavsstenskvätta (rasen hispanica)
+OENHISMEL;Oenanthe hispanica melanoleuca;rusotasku (alalaji melanoleuca);medelhavsstenskvätta (rasen melanoleuca)
+OENDES;Oenanthe deserti;aavikkotasku;ökenstenskvätta
+MONSP;Monticola sp;kivikkorastaslaji;Monticola (släktet)
+MONSAX;Monticola saxatilis;kivikkorastas;stentrast
+MONSOL;Monticola solitarius;sinirastas;blåtrast
+ZOODAU;Zoothera dauma;kirjorastas;guldtrast
+CATHASP;Catharus sp;amerikanrastaslaji;Catharus (släktet)
+CATUST;Catharus ustulatus;korpirastas;beigekindad skogstrast
+TURSP;Turdus sp;Turdus (suku);Turdus (släktet)
+TURTOR;Turdus torquatus;sepelrastas;ringtrast
+TURMER;Turdus merula;mustarastas;koltrast
+TUROBS;Turdus obscurus;harmaakurkkurastas;gråhalsad trast
+TURNAU;Turdus naumanni;ruosterastas;rödtrast
+TUREUN;Turdus eunomus;ruostesiipirastas;bruntrast
+TURNAU/TUREUN;Turdus naumanni / Turdus eunomus;ruosterastas / ruostesiipirastas;rödtrast / bruntrast
+TURATR;Turdus atrogularis;mustakaularastas;svarthalsad trast
+TURRUF;Turdus ruficollis;punakaularastas;rödhalsad trast
+TURATR/TURRUF;Turdus ruficollis / Turdus atrogularis;mustakaularastas / punakaularastas  ;svarthalsad trast / rödhalsad trast 
+TURPIL;Turdus pilaris;räkättirastas;björktrast
+TURPHI;Turdus philomelos;laulurastas;taltrast
+TURILI;Turdus iliacus;punakylkirastas;rödvingetrast
+PTUR;parvus Turdus;pieni rastas;liten trast
+TURVIS;Turdus viscivorus;kulorastas;dubbeltrast
+ITUR;magnus Turdus;iso rastas;stor trast
+LOCSP;Locustella sp;sirkkalintulaji;Locustella (släktet)
+LOCCER;Locustella certhiola;sarasirkkalintu;starrsångare
+LOCLAN;Locustella lanceolata;viirusirkkalintu;träsksångare
+LOCLAN/LOCNAE;Locustella lanceolata / Locustella naevia;viirusirkkalintu / pensassirkkalintu;träsksångare / gräshoppsångare
+LOCNAE;Locustella naevia;pensassirkkalintu;gräshoppsångare
+LOCFLU;Locustella fluviatilis;viitasirkkalintu;flodsångare
+LOCLUS;Locustella luscinioides;ruokosirkkalintu;vassångare
+ACRSP;Acrocephalus sp;kerttuslaji;Acrocephalus (släktet)
+IDUAED;Iduna aedon;paksunokkakerttunen;tjocknäbbad sångare
+ACROLA;Acrocephalus paludicola;sarakerttunen;vattensångare
+ACRSCH;Acrocephalus schoenobaenus;ruokokerttunen;sävsångare
+ACRSCI;Acrocephalus scirpaceus;rytikerttunen;rörsångare
+ACRSCIFUS;Acrocephalus scirpaceus fuscus;rytikerttunen (alalaji fuscus);rörsångare (rasen fuscus)
+ACRSCI/ACRRIS/ACRDUM;Acrocephalus scirpaceus / Acrocephalus palustris / Acrocephalus dumetorum;rytikerttunen / luhtakerttunen / viitakerttunen;rörsångare / kärrsångare / busksångare
+ACRSCI/ACRRIS;Acrocephalus scirpaceus / Acrocephalus palustris;rytikerttunen / luhtakerttunen;rörsångare / kärrsångare
+ACRRIS;Acrocephalus palustris;luhtakerttunen;kärrsångare
+ACRRIS/ACRDUM;Acrocephalus palustris / Acrocephalus dumetorum;luhtakerttunen / viitakerttunen;kärrsångare / busksångare
+ACRDUM;Acrocephalus dumetorum;viitakerttunen;busksångare
+ACRAGR;Acrocephalus agricola;kenttäkerttunen;fältsångare
+ACRARU;Acrocephalus arundinaceus;rastaskerttunen;trastsångare
+HIPSP;Hippolais sp;kultarintalaji;Hippolais (släktet)
+IDUPAL;Iduna pallida;vaaleakultarinta;eksångare
+IDUPALPAL;Iduna pallida pallida;vaaleakultarinta (alalaji pallida);eksångare (rasen pallida)
+IDUPALELA;Iduna pallida elaeica;vaaleakultarinta (alalaji elaeica);eksångare (rasen elaeica)
+IDUPAL/IDUCAL;Iduna pallida / Iduna caligata;vaaleakultarinta / pikkukultarinta;eksångare / stäppsångare
+IDUCAL;Iduna caligata;pikkukultarinta;stäppsångare
+IDURAM;Iduna rama;aavikkokultarinta;saxaulsångare
+IDUCAL/IDURAM;Iduna caligata / Iduna rama;pikkukultarinta / aavikkokultarinta;stäppsångare / saxaulsångare
+HIPICT;Hippolais icterina;kultarinta;härmsångare
+SYLSP;Sylvia sp;kerttulaji;Sylvia (släktet)
+SYLATR;Sylvia atricapilla;mustapääkerttu;svarthätta
+SYLBOR;Sylvia borin;lehtokerttu;trädgårdssångare
+SYLNIS;Sylvia nisoria;kirjokerttu;höksångare
+SYLCUR;Sylvia curruca;hernekerttu;ärtsångare
+SYLCOM;Sylvia communis;pensaskerttu;törnsångare
+SYLNAN;Sylvia nana;kääpiökerttu;ökensångare
+SYLUND;Sylvia undata;ruskokerttu;provencesångare
+SYLCAN;Sylvia cantillans;rusorintakerttu;rödstrupig sångare
+SYLMEL;Sylvia melanocephala;samettipääkerttu;sammetshätta
+SYLRUP;Sylvia ruppeli;mustakurkkukerttu;svarthakad sångare
+PHYSP;Phylloscopus sp;uunilintulaji;Phylloscopus (släktet)
+PHYCOR;Phylloscopus coronatus;amurinuunilintu;östlig kronsångare
+PHYNIT;Phylloscopus nitidus;kaukasianuunilintu;kaukasisk lundsångare
+PHYPLU;Phylloscopus plumbeitarsus;burjatianuunilintu;östlig lundsångare
+PHYDES;Phylloscopus trochiloides;idänuunilintu;lundsångare
+PHYDESVIR;Phylloscopus trochiloides viridanus;idänuunilintu (alalaji viridanus);lundsångare (rasen viridanus)
+PHYBOR;Phylloscopus borealis;lapinuunilintu;nordsångare
+PHYPRO;Phylloscopus proregulus;hippiäisuunilintu;kungsfågelsångare
+PHYPRO/PHYINO;Phylloscopus proregulus / Phylloscopus inornatus;hippiäisuunilintu / taigauunilintu;kungsfågelsångare / taigasångare
+PHYINO;Phylloscopus inornatus;taigauunilintu;taigasångare
+PHYINO/PHYHUM;Phylloscopus inornatus / Phylloscopus humei;taigauunilintu / kashmirinuunilintu;taigasångare / bergstaigasångare
+PHYHUM;Phylloscopus humei;kashmirinuunilintu;bergstaigasångare
+PHYSCH;Phylloscopus schwarzi;siperianuunilintu;videsångare
+PHYSCH/PHYFUS;Phylloscopus schwarzi / Phylloscopus fuscatus;siperianuunilintu / ruskouunilintu;videsångare / brunsångare
+PHYFUS;Phylloscopus fuscatus;ruskouunilintu;brunsångare
+PHYBON;Phylloscopus bonelli;vuoriuunilintu;bergsångare
+PHYBON/PHYORI;Phylloscopus bonelli / Phylloscopus orientalis;vuoriuunilintu / balkaninuunilintu;bergsångare / balkansångare
+PHYORI;Phylloscopus orientalis;balkaninuunilintu;balkansångare
+PHYSIB;Phylloscopus sibilatrix;sirittäjä;grönsångare
+PHYIBE;Phylloscopus ibericus;iberiantiltaltti;iberisk gransångare
+PHYCOL;Phylloscopus collybita;tiltaltti;gransångare
+phycolhily;Phylloscopus collybita (hily-voice);tiltaltti (hily/hihku -ääninen);gransångare (hily-läte)
+phycolhiit;Phylloscopus collybita (hii-voice);tiltaltti (hii -ääninen);gransångare (hii-läte)
+phycolcol;Phylloscopus collybita collybita;tiltaltti (alalaji collybita);gransångare (rasen collybita)
+PHYCOLTRI;Phylloscopus collybita tristis;idäntiltaltti;gransångare (rasen tristis)
+PHYCOL/PHYLUS;Phylloscopus collybita / Phylloscopus trochilus;tiltaltti / pajulintu;gransångare / lövsångare
+PHYLUS;Phylloscopus trochilus;pajulintu;lövsångare
+REGREG;Regulus regulus;hippiäinen;kungsfågel
+REGIGN;Regulus ignicapilla;tulipäähippiäinen;brandkronad kungsfågel
+MUSSP;Muscicapa sp;harmaasieppolaji;Muscicapa (släktet)
+MUSSTR;Muscicapa striata;harmaasieppo;grå flugsnappare
+FICSP;Ficedula sp;kirjosieppolaji;Ficedula (släktet)
+FICPAR;Ficedula parva;pikkusieppo;mindre flugsnappare
+FICALB;Ficedula albicollis;sepelsieppo;halsbandsflugsnappare
+FICALB/FICHYP;Ficedula albicollis / Ficedula hypoleuca;sepelsieppo / kirjosieppo;halsbandsflugsnappare / svartvit flugsnappare
+FICALBXFICHYP;Ficedula albicollis X Ficedula hypoleuca;sepelsieppo X kirjosieppo;halsbandsflugsnappare X svartvit flugsnappare
+FICHYP;Ficedula hypoleuca;kirjosieppo;svartvit flugsnappare
+PANBIA;Panurus biarmicus;viiksitimali;skäggmes
+AEGCAU;Aegithalos caudatus;pyrstötiainen;stjärtmes
+AEGCAUEUR;Aegithalos caudatus europaeus;pyrstötiainen (alalaji europaeus);stjärtmes (rasen europaeus)
+AEGCAUCAU;Aegithalos caudatus caudatus;pyrstötiainen (alalaji caudatus);stjärtmes (rasen caudatus)
+PARSP;Parus sp;tiaislaji;Parus (släktet)
+POEPAL;Poecile palustris;viitatiainen;entita
+POEMON;Poecile montanus;hömötiainen;talltita
+POEMONXPOECIN;Poecile montanus X Poecile cinctus;hömötiainen X lapintiainen;talltita X lappmes
+POEMONXLOPCRI;Poecile montanus X Lophophanes cristatus;hömötiainen X töyhtötiainen;talltita X tofsmes
+POEMONXPERATE;Poecile montanus X Periparus ater;hömötiainen X kuusitiainen;talltita X svartmes
+POECIN;Poecile cinctus;lapintiainen;lappmes
+LOPCRI;Lophophanes cristatus;töyhtötiainen;tofsmes
+PERATE;Periparus ater;kuusitiainen;svartmes
+CYACAE;Cyanistes caeruleus;sinitiainen;blåmes
+CYACAEXCYACYA;Cyanistes caeruleus X Cyanistes cyanus;sinitiainen X valkopäätiainen;blåmes X azurmes
+CYACYA;Cyanistes cyanus;valkopäätiainen;azurmes
+PARMAJ;Parus major;talitiainen;talgoxe
+XPAR;hybrida Parus;tiaisristeymä;meshybrid
+SITEUR;Sitta europaea;pähkinänakkeli;nötväcka
+SITEUREUR;Sitta europaea europaea;pähkinänakkeli (alalaji europaea);nötväcka (rasen europaea)
+SITEURASI;Sitta europaea asiatica;pähkinänakkeli (alalaji asiatica);nötväcka (rasen asiatica)
+CERTHSP;Certhia sp;puukiipijälaji;Certhia (släktet)
+CERFAM;Certhia familiaris;puukiipijä;trädkrypare
+REMPEN;Remiz pendulinus;pussitiainen;pungmes
+ORIORI;Oriolus oriolus;kuhankeittäjä;sommargylling
+LANSP;Lanius sp;lepinkäislaji;Lanius (släktet)
+LANISA;Lanius isabellinus;punapyrstölepinkäinen;isabellatörnskata
+LANISAPHO;Lanius isabellinus phoenicuroides;punapyrstölepinkäinen (alalaji phoenicuroides);isabellatörnskata (rasen phoenicuroides)
+LANISAISA;Lanius isabellinus isabellinus;punapyrstölepinkäinen (alalaji isabellinus);isabellatörnskata (rasen isabellinus)
+LANISAARE;Lanius isabellinus arenarius;punapyrstölepinkäinen (alalaji arenarius);isabellatörnskata (rasen arenarius)
+LANCOL;Lanius collurio;pikkulepinkäinen;törnskata
+LANMIN;Lanius minor;mustaotsalepinkäinen;svartpannad törnskata
+LANEXC;Lanius excubitor;isolepinkäinen;varfågel
+LANEXCEXC;Lanius excubitor excubitor;isolepinkäinen (alalaji excubitor);varfågel (rasen excubitor)
+LANEXCHOM;Lanius excubitor homeyeri;isolepinkäinen (alalaji homeyeri);varfågel (rasen homeyeri)
+LANEXCSIB;Lanius excubitor sibiricus;isolepinkäinen (alalaji sibiricus);varfågel (rasen sibiricus)
+LANMER;Lanius meridionalis;etelänisolepinkäinen;ökenvarfågel
+LANMERMER;Lanius meridionalis meridionalis;etelänisolepinkäinen (alalaji meridionalis);ökenvarfågel (rasen meridionalis)
+LANMERPAL;Lanius meridionalis pallidirostris;etelänisolepinkäinen (alalaji pallidirostris);ökenvarfågel (rasen pallidirostris)
+LANSEN;Lanius senator;punapäälepinkäinen;rödhuvad törnskata
+LANNUB;Lanius nubicus;valko-otsalepinkäinen;masktörnskata
+GARGLA;Garrulus glandarius;närhi;nötskrika
+PERINF;Perisoreus infaustus;kuukkeli;lavskrika
+PICPIC;Pica pica;harakka;skata
+NUCCAR;Nucifraga caryocatactes;pähkinähakki;nötkråka
+NUCCARCAR;Nucifraga caryocatactes caryocatactes;pähkinähakki (alalaji caryocatactes);nötkråka (rasen caryocatactes)
+NUCCARMAC;Nucifraga caryocatactes macrorhynchos;pähkinähakki (alalaji macrorhynchos);nötkråka (rasen macrorhynchos)
+CORSP;Corvus sp;varislaji;Corvus (släktet)
+CORMON;Corvus monedula;naakka;kaja
+CORDAU;Corvus dauuricus;idännaakka;klippkaja
+CORFRU;Corvus frugilegus;mustavaris;råka
+CORNIX;Corvus corone;varis;kråka
+CORONEONE;Corvus corone corone;nokivaris;kråka (rasen corone)
+CORNIXXCORONEONE;Corvus corone X Corvus corone corone;varis X nokivaris;kråka X kråka (rasen corone)
+CORRAX;Corvus corax;korppi;korp
+ICOR;magnus Corvus;korppi / varis / mustavaris;korp / kråka / råka
+STUVUL;Sturnus vulgaris;kottarainen;stare
+PASROS;Pastor roseus;punakottarainen;rosenstare
+STUSIN;Sturnus sinensis;kiinankottarainen;mandarinstare
+STUCIN;Sturnus cineraceus;viirupääkottarainen;gråstare
+ACRTRI;Acridotheres tristis;pihamaina;brun majna
+PASSP;Passer sp;varpuslaji;Passer (släktet)
+PASDOM;Passer domesticus;varpunen;gråsparv
+PASDOMXPASMON;Passer domesticus X Passer montanus;varpunen X pikkuvarpunen;gråsparv X pilfink
+PASHIS;Passer hispaniolensis;pensasvarpunen;spansk sparv
+PASMON;Passer montanus;pikkuvarpunen;pilfink
+FRISP;Fringilla sp;peippolaji;Fringilla (släktet)
+FRICOE;Fringilla coelebs;peippo;bofink
+FRIMON;Fringilla montifringilla;järripeippo;bergfink
+SERSER;Serinus serinus;keltahemppo;gulhämpling
+SERCAN;Serinus canaria;kanarianhemppo;kanariefågel
+SERCIT;Serinus citrinella;sitruunahemppo;citronsiska
+CARSP;Carduelis sp;tiklilaji;Carduelis (släktet)
+CARCHL;Carduelis chloris;viherpeippo;grönfink
+CARCAR;Carduelis carduelis;tikli;steglits
+CARSPI;Carduelis spinus;vihervarpunen;grönsiska
+CARCAN;Carduelis cannabina;hemppo;hämpling
+CARRIS;Carduelis flavirostris;vuorihemppo;vinterhämpling
+CARMEA;Carduelis flammea;urpiainen;gråsiska
+CARMEAFLA;Carduelis flammea flammea;urpiainen (alalaji flammea);gråsiska (rasen flammea)
+CARMEACAB;Carduelis flammea cabaret;ruskourpiainen;gråsiska (rasen cabaret)
+CARMEA/CARHOR;Carduelis flammea / Carduelis hornemanni;urpiainen / tundraurpiainen;gråsiska / snösiska
+CARHOR;Carduelis hornemanni;tundraurpiainen;snösiska
+LOXSP;Loxia sp;käpylintulaji;Loxia (släktet)
+LOXLEU;Loxia leucoptera;kirjosiipikäpylintu;bändelkorsnäbb
+LOXLEU/LOXCUR;Loxia leucoptera / Loxia curvirostra;kirjosiipikäpylintu / pikkukäpylintu;bändelkorsnäbb / mindre korsnäbb
+LOXCUR;Loxia curvirostra;pikkukäpylintu;mindre korsnäbb
+LOXCUR/LOXPYT;Loxia curvirostra / Loxia pytyopsittacus;pikkukäpylintu / isokäpylintu;mindre korsnäbb / större korsnäbb
+LOXPYT;Loxia pytyopsittacus;isokäpylintu;större korsnäbb
+BUCANSP;Bucanetes sp;aavikkotulkkulaji;Bucanetes (släktet)
+BUCGIT;Bucanetes githagineus;aavikkotulkku;ökentrumpetare
+CARPOSP;Carpodacus sp;punavarpuslaji;Carpodacus (släktet)
+CARERY;Carpodacus erythrinus;punavarpunen;rosenfink
+PINENU;Pinicola enucleator;taviokuurna;tallbit
+URASIB;Uragus sibiricus;pyrstötulkku;långstjärtad rosenfink
+PYRPYR;Pyrrhula pyrrhula;punatulkku;domherre
+COCCOC;Coccothraustes coccothraustes;nokkavarpunen;stenknäck
+EOPPER;Eophona personata;japaninnokkavarpunen;större maskstenknäck
+DENSTR;Dendroica striata;viirukerttuli;vitkindad skogssångare
+PASILI;Passerella iliaca;kettusirkku;rävsparv
+ZONALB;Zonotrichia albicollis;valkokurkkusirkku;vitstrupig sparv
+CALLAP;Calcarius lapponicus;lapinsirkku;lappsparv
+PLENIV;Plectrophenax nivalis;pulmunen;snösparv
+EMBSP;Emberiza sp;sirkkulaji;Emberiza (släktet)
+EMBSPO;Emberiza spodocephala;harmaapääsirkku;gråhuvad sparv
+EMBLEU;Emberiza leucocephalos;mäntysirkku;tallsparv
+EMBLEUXEMBCIT;Emberiza leucocephalos X Emberiza citrinella;mäntysirkku X keltasirkku;tallsparv X gulsparv
+EMBCIT;Emberiza citrinella;keltasirkku;gulsparv
+EMBBUC;Emberiza buchanani;kivikkosirkku;bergortolansparv
+EMBHOR;Emberiza hortulana;peltosirkku;ortolansparv
+EMBCAE;Emberiza caesia;ruostekurkkusirkku;rostsparv
+EMBRUS;Emberiza rustica;pohjansirkku;videsparv
+EMBRUS/EMBPUS/EMBAUR;Emberiza rustica / Emberiza pusilla / Emberiza aureola;pohjansirkku / pikkusirkku / kultasirkku;videsparv / dvärgsparv / gyllensparv
+EMBPUS;Emberiza pusilla;pikkusirkku;dvärgsparv
+EMBRUT;Emberiza rutila;kastanjasirkku;rödbrun sparv
+EMBAUR;Emberiza aureola;kultasirkku;gyllensparv
+EMBSCH;Emberiza schoeniclus;pajusirkku;sävsparv
+EMBBRU;Emberiza bruniceps;ruskopääsirkku;stäppsparv
+EMBBRU/EMBMEL;Emberiza bruniceps / Emberiza melanocephala;ruskopääsirkku / mustapääsirkku;stäppsparv / svarthuvad sparv
+EMBMEL;Emberiza melanocephala;mustapääsirkku;svarthuvad sparv
+EMBCAL;Emberiza calandra;harmaasirkku;kornsparv
+EMBCIO;Emberiza cioides;niittysirkku;ängssparv
+EMBELE;Emberiza elegans;kultatöyhtösirkku;praktsparv
+PASCYA;Passerina cyanea;indigokardinaali;indigofink
+PASAMO;Passerina amoena;turkoosikardinaali;lazulifink
+PASCIR;Passerina ciris;sateenkaarikardinaali;påvefink
+ANS/BRA/PHA;Anserini / Phalacrocorax;hanhi / merimetso;gås / skarv
+ANS/BRA/V;Anserini / Anatinae;hanhi / vesilintu;gås / sjöfågel
+IL;magnus Aves;iso lintu;stor fågel
+V/K;V / K (vesilintu / kahlaaja);vesilintu / kahlaaja;sjöfågel / vadare
+BOM/STU;Bombycilla / Sturnus;tilhi / kottarainen;sidensvans / stare
+PL;PL (pikkulintu);pikkulintu;ob. småfågel
+AVIS;Avis;lintu;ob. fågel
+IPL;IPL (iso pikkulintu);iso pikkulintu;stor småfågel
+KPL;KPL (keskikokoinen pikkulintu);keskikokoinen pikkulintu;medelstor småfågel
+PPL;PPL (pieni pikkulintu);pieni pikkulintu;liten småfågel
+PPL/KPL;PPL / KPL (pieni / keskikokoinen pikkulintu);pieni / keskikokoinen pikkulintu;liten / medelstor småfågel
+KPL/IPL;KPL / IPL (keskikokoinen / iso pikkulintu);keskikokoinen / iso pikkulintu;medelstor / stor småfågel
+XX;hybrida;risteymä;ob. hybrid

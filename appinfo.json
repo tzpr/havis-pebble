@@ -1,0 +1,53 @@
+{
+  "appKeys": {},
+  "capabilities": [
+    "configurable"
+  ],
+  "companyName": "Pop",
+  "longName": "Havis",
+  "resources": {
+    "media": [
+      {
+        "file": "images/menu_icon_a.png",
+        "name": "IMAGE_MENU_ICON_A",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/menu_icon_b.png",
+        "name": "IMAGE_MENU_ICON_B",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/menu_icon_middle.png",
+        "name": "IMAGE_MENU_ICON_MIDDLE",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/logo_splash.png",
+        "name": "IMAGE_LOGO_SPLASH",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/tile_splash.png",
+        "name": "IMAGE_TILE_SPLASH",
+        "type": "bitmap"
+      },
+      {
+        "file": "fonts/UbuntuMono-Regular.ttf",
+        "name": "MONO_FONT_14",
+        "type": "font"
+      }
+    ]
+  },
+  "sdkVersion": "3",
+  "shortName": "Havis",
+  "targetPlatforms": [
+    "aplite"
+  ],
+  "uuid": "59feb424-b62c-11e5-9f22-ba0be0483c18",
+  "versionCode": 1,
+  "versionLabel": "0.4",
+  "watchapp": {
+    "watchface": false
+  }
+}
