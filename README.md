@@ -11,7 +11,7 @@ Document birdwathing observations using your watch!
 
 
 
-#### Installation
+#### Installation:
  export PEBBLE_PHONE=ip_of_the_phone
  
  pebble build && pebble install
