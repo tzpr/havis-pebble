@@ -8,7 +8,8 @@ Document birdwathing observations using your watch!
 ![ScreenShot](havis_screen_000.jpg) ![ScreenShot](havis_screen_00.jpg) ![ScreenShot](havis_screen_0.jpg) ![ScreenShot](havis_screen_1.jpg) ![ScreenShot](havis_screen.jpg)
 
 
-***
+
+
 
 #### Installation
  export PEBBLE_PHONE=ip_of_the_phone
