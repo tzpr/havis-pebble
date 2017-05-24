@@ -1,7 +1,8 @@
 
 ## havis-pebble
 
-Document birdwathing observations using your watch!  
+Document birdwathing observations using your watch! 
+
 ![ScreenShot](havis_screen_000.jpg) ![ScreenShot](havis_screen_00.jpg) ![ScreenShot](havis_screen_0.jpg) ![ScreenShot](havis_screen_1.jpg) ![ScreenShot](havis_screen.jpg)
 
 - https://pebble.github.io/pebblejs/
