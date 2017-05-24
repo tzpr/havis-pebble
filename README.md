@@ -7,8 +7,7 @@ Document birdwathing observations using your watch!
 
 
 
-- https://pebble.github.io/pebblejs/
-- https://developer.pebble.com/
+
 
 
 #### Installation
@@ -17,7 +16,9 @@ Document birdwathing observations using your watch!
  pebble build && pebble install
 
 
-#### Related links:
+#### Links:
+- https://pebble.github.io/pebblejs/
+- https://developer.pebble.com/
 - http://www.birdlife.fi/ohjeet/tiira_ohje_fi.pdf
 - https://dev.w3.org/geo/api/spec-source.html
 - http://www.sitepoint.com/understanding-module-exports-exports-node-js/
