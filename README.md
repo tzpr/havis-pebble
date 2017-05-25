@@ -3,7 +3,7 @@
 
 Document birdwathing observations using your watch! 
 
-
+#### Screens:
 
 ![ScreenShot](havis_screen_000.jpg) ![ScreenShot](havis_screen_00.jpg) ![ScreenShot](havis_screen_0.jpg) ![ScreenShot](havis_screen_1.jpg) ![ScreenShot](havis_screen.jpg)
 
