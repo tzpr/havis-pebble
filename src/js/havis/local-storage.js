@@ -1,6 +1,8 @@
 
 var Settings = require('../settings');
 
+var SERVER_SYNC_TIME_STAMP = 'last_server_sync';
+var OBSERVATIONS = 'observations_list';
 
 var localStorage = (function ls() {
     var items = [];
@@ -50,8 +52,43 @@ var localStorage = (function ls() {
         }
     }
 
+    function setLastServerSync(){
+        var timestamp = +new Date() 
+        Settings.data(SERVER_SYNC_TIME_STAMP, timestamp);
+    }
+
+    function lastServerSync(){
+        return Settings.data(SERVER_SYNC_TIME_STAMP);
+    }
+
+    function saveObservation(observation){
+        console.log('** localStorage saveObservation: ' + JSON.stringify(observation));
+        var observationList = [];
+        if (Settings.data(OBSERVATIONS)) {
+            observationList = Settings.data(OBSERVATIONS);
+            observationList.push(observation);
+            Settings.data(OBSERVATIONS, observationList);
+        } else {
+            observationList.push(observation);
+            Settings.data(OBSERVATIONS, observationList);
+        }
+    }
+
+    function getObservations(){
+        if (Settings.data(OBSERVATIONS)) {
+            return Settings.data(OBSERVATIONS);
+        } else {
+            return [];
+        }
+    }
+
+
     // public api
     return {
+        setLastServerSync: setLastServerSync,
+        lastServerSync: lastServerSync,
+        saveObservation: saveObservation,
+        getObservations: getObservations,
         setItem: setItem,
         getItem: getItem,
         getItems: getItems,

@@ -333,9 +333,10 @@ function showInputWindow(shortName, longName) {
                 "state": STATES[selectedState],
                 "time": timestamp
             };
-        //TODO: figure out what to do with localstorage... all to server or not?
-        //saveToLocalStorage('havis', observation);
-        server.save(observation, shortVibeNotification, longVibeNotification);
+        // save to localStorage by default
+        localStorage.saveObservation(observation);
+        // TODO: refactor server sync
+        //server.save(observation, shortVibeNotification, longVibeNotification);
     });
 
     inputWindow.on('longClick', 'up', function () {
