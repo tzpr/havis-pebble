@@ -1,29 +1,33 @@
-__author__ = 'jimd'
+'''
+Script to transform CSV file into JSON format
 
+    [
+        {
+            "suku": "ACC",
+            "birds": [
+                {
+                "nimi": "Accipiter gentilis",
+                "suku": "ACC",
+                "lyhenne": "ACCGEN"
+                },
+                {
+                "nimi": "Accipiter nisus",
+                "suku": "ACC",
+                "lyhenne": "ACCNIS"
+                }
+            ]
+        }
+        ...
+    ]
+
+Execute with Python 2.7
+   virtualenv venv --python=python2.7
+   . venv/bin/activate
+
+'''
 import json
 import csv
 import sys
-
-# 
-# Script transforms CSV file to JSON format
-#
-# [
-#   {
-#     "suku": "ACC",
-#     "birds": [
-#       {
-#         "nimi": "Accipiter gentilis",
-#         "suku": "ACC",
-#         "lyhenne": "ACCGEN"
-#       },
-#       {
-#         "nimi": "Accipiter nisus",
-#         "suku": "ACC",
-#         "lyhenne": "ACCNIS"
-#       }
-#     ]
-#   }	
-#  ] 
 
 
 taxon_list = []
@@ -47,12 +51,11 @@ def add_to_taxon_list(taxon):
 
 
 def taxon_list_to_json():
-    print taxon_list
+    print(json.dumps(taxon_list))
 
-
-# print json.dumbs(taxon_list)
 
 def not_relevant(row):
+    ''' it's not relevant, it's irrelevant '''
     if (len(row['lyhenne']) > BINOMIAL_ABBREVIATION_MAX_LENGTH):
         return True
     elif (len(row['lyhenne']) < BINOMIAL_ABBREVIATION_MIN_LENGTH):
@@ -66,12 +69,11 @@ def not_relevant(row):
 csv.register_dialect('semicolon', delimiter=';')
 
 with open(sys.argv[1], 'r') as f:
-    reader = csv.DictReader(f, dialect='semicolon')
+    READER = csv.DictReader(f, dialect='semicolon')
 
-    for row in reader:
+    for row in READER:
 
-        if (not_relevant(row)):
-            # print ' irrelevant : ', row['lyhenne']
+        if not_relevant(row):
             continue
         else:
             bird_object = {
@@ -97,6 +99,4 @@ with open(sys.argv[1], 'r') as f:
                 bird_list = []
                 add_to_bird_list(bird_object)
 
-    f.close()
     taxon_list_to_json()
-print ' end'
